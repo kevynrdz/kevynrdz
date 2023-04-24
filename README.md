@@ -15,3 +15,6 @@ Airsoft & outdoor at weekends!
 DM (on Twitter-Instagram) or email for enquires.
 
 ## Thanks for following and support!
+You can donate via: 
+- https://cafecito.app/kevynrdz (MercadoPago - Only for Argentina)
+- https://ko-fi.com/kevynrdz (PayPal - Others)
