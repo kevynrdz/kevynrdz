@@ -11,7 +11,7 @@ I am dedicated to the design, experimentation and development of products and se
 - Industrial & Product Design
 - CNC & 3D Printing
 - Art & Music
-- Airsoft & outdoor at weekends!
+- Outdoor at weekend!
 
 # Contact
 DM (on Twitter-Instagram) or email for enquires.
