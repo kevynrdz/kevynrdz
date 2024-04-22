@@ -1,6 +1,7 @@
 # About me
 - 👋 Hi, I’m @kevynrdz
 - ⚙️ I'm industrial designer, experimenter and enthusiast.
+- 🚀 I specialize in aerospace design and consumer technology.
 - 📚 Here you will find my project repositories (I update them periodically).
 - ✔️ Follow me on my social media to stay in touch.
 
@@ -10,7 +11,7 @@ I am dedicated to the design, experimentation and development of products and se
 - Maker Culture
 - Industrial & Product Design
 - CNC & 3D Printing
-- Art & Music
+- Aerospace design
 - Outdoor at weekend!
 
 # Contact
