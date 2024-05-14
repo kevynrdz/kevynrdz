@@ -10,8 +10,8 @@ I am dedicated to the design, experimentation and development of products and se
 # Interests
 - Maker Culture
 - Industrial & Product Design
-- CNC & 3D Printing
-- Aerospace design
+- 3D Printing
+- Games and consoles
 - Outdoor at weekend!
 
 # Contact
