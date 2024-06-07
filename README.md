@@ -1,21 +1,20 @@
 # About me
 - 👋 Hi, I’m @kevynrdz
-- ⚙️ I'm industrial designer, experimenter and enthusiast.
-- 🚀 I specialize in aerospace design and consumer technology.
+- ⚙️ I'm industrial designer, 3d generalist & indie gamedev.
+- 🚀 I specialize in realistic tech products & hard surface models.
 - 📚 Here you will find my project repositories (I update them periodically).
 - ✔️ Follow me on my social media to stay in touch.
 
-I am dedicated to the design, experimentation and development of products and services. I love creating new things and finding solutions to everyday problems. I believe that with a few things we can do a lot, putting a lot of effort and applying knowledge to make them work in the best possible way.
+I design and develop interactive experiencies, combining 3D models and code. I love creating new things and finding solutions. I believe that with a few things we can do a lot, putting a lot of effort and applying knowledge to make them work in the best possible way.
 
 # Interests
 - Maker Culture
-- Industrial & Product Design
-- 3D Printing
-- Games and consoles
-- Outdoor at weekend!
+- Product Design
+- 3D Modeling
+- Gamedev
 
 # Contact
-DM (on Twitter-Instagram) or email for enquires.
+DM (on Twitter) or email for enquires.
 
 ## Thanks for following and support!
 You can donate via: 
